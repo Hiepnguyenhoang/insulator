@@ -19,6 +19,7 @@ Phương pháp sử dụng cv2.warpperspective, với ý tưởng cơ bản là 
   <img src="https://raw.githubusercontent.com/Hiepnguyenhoang/insulator/main/obb_crop_img.png" alt="OBB Crop Example" width="600"/>
 </p>
 
+[Hướng dẫn về cv2.warpPerspective](https://theailearner.com/tag/cv2-warpperspective/)
 
 
  
